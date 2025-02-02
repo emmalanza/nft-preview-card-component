@@ -20,10 +20,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/mobile-first-nft-preview-card-component-LHljY2XK_N)
+- Live Site URL: [Live site URL here](https://emmalanza.github.io/nft-preview-card-component/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@emmalanza](https://www.frontendmentor.io/profile/emmalanza)
 
